@@ -21,3 +21,4 @@ yapf
 nltk
 fairscale
 litellm
+python-multipart>=0.0.18 # not directly required, pinned by Snyk to avoid a vulnerability
